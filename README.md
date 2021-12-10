@@ -1,2 +1,4 @@
 # natium
-Discord Music Bot
+Discord Music Bot - Comming Soon...
+
+This source code is development
